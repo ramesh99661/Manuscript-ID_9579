@@ -1,2 +1,7 @@
 # Manuscript-ID_9579
-Manuscript ID_9579
+Bidirectional Step-Up Multi-Input Converter with Improved Voltage Gain for DC Microgrids
+
+
+— High-gain converters are widely used in industrial and commercial applications, particularly in high-power systems such as Fuel Cell Electric Vehicles (FCEVs) and grid-connected Renewable Energy Sources (RES). However, high-gain topologies derived from a single energy source often suffer from reliability issues in RES applications due to increased component stress and device count. In the event of a source failure, these designs can lead to energy supply disruptions. To address this challenge, integrating multiple energy sources with step-up voltage capability presents a promising solution for both DC microgrid and Electric Vehicle (EV) applications. This study proposes a Dual-Input Single-Output (DISO) converter designed to integrate multiple energy sources while achieving high voltage gain, equivalent to 5 times the input voltage. The converter operates by charging the inductors in parallel and discharging them in series, enhancing the overall voltage boost. Additionally, in the event of a source failure, the converter can seamlessly supply power to the load using the available source. It also supports bidirectional operation, further improving system flexibility and reliability. The paper provides a comprehensive theoretical analysis, covering circuit modeling, design considerations, and performance evaluation. Furthermore, a comparative analysis with other converter topologies is presented. The proposed converter is validated through experimental results obtained from a 250 W laboratory prototype and demonstrating an efficiency of 92.37%.
+
+
